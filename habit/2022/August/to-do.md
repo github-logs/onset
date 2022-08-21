@@ -15,7 +15,7 @@ what are graded readers
 
 - [ ]　日本語で読み
   - [ ]　[全巻無料で漫画読み放題！ - マンガ図書館Z](https://www.mangaz.com/)
-![mangaz image](https://user-images.githubusercontent.com/111704606/185808428-878dc23d-9cb2-4b67-a75f-aa2f9d34a831.png)![image](https://user-images.githubusercontent.com/111704606/185808736-edfa2f3a-8f19-455f-85d2-72bd4ebf20cf.png)
+ ### ![image](https://user-images.githubusercontent.com/111704606/185808736-edfa2f3a-8f19-455f-85d2-72bd4ebf20cf.png)
   - [ ] [RAW MANGA  Dl-Zip.Com](http://dl-zip.com/category/raw-manga-dl/)
   - [ ] いたずら猫　[main Japanese guide](https://itazuraneko.neocities.org/learn/guide.html)
     - [ ] [tae kim grammar guide](https://itazuraneko.neocities.org/grammar/taekim.html)
