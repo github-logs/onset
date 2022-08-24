@@ -4,25 +4,24 @@
 	{{time}}
 
 
-# {{August 24, 2022}}
-	Created: 
-	{{August 24, 2022}} 
-	{{18:37}}
-どこか：ＳＢＭＨ
-
-      Last updated: August 24, 2022 18:37
       
 # Day Routine
 
-- [ ] 起きる ~07:00
-- [ ] meditate : affirmation - 姉さんは動画を見せた！ ~07:30
+- [ ] 起きる ~
+- [ ] meditate : affirmation -
 - [ ] ベッド
 - [ ] 歯をブラシする
 - [ ] シャワー
+- [ ] 一ページ「TGR」
 
 # 運動する
 
-- [ ] ジムに行く ~ 10:25 am [10 MINUTE WALK]
+- [ ] ジムに行く 
+
+~ 時：```ｘ``` 
+なにをやりましたか？ ```x```
+
+
 - [ ] カリステニクス
 
 # 食べ物
@@ -45,7 +44,6 @@
 - [ ] 聞き取り (cjp)
 - [ ] comprehensive jp
 
-❌
 
 #　英語
 - [ ] 今日の単語:
@@ -61,17 +59,13 @@
  ```ジムの後に、```
  
 - [ ] 家に帰ったり、
-- [ ] 昼ご飯を食べたり、[chaofan]
+- [ ] 昼ご飯を食べたり、[　]
 - [ ] シャワーをしたり
-- [ ] 下がったりました
-
-
-
+- [ ] 下がったりました：　「」
 
 # optionals
 - [ ] Parcel - pressured spray
  
-	 
 
 # Night Routine
 - [ ] water plants 
@@ -81,3 +75,4 @@
 - [ ] journal
 
 
+❌
