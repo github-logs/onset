@@ -33,3 +33,9 @@ It's okay to have different priorities at different moments of life, keep going 
 ```
 
 Reassurance.
+
+
+---
+
+思い出した：
+generational trauma
