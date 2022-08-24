@@ -1,3 +1,5 @@
+## a thread
+
 ```So I'm an older gen Z person in my early twenties. And I know online there's this whole running joke of Gen Z's and millennials being each other's enemies and always having some little beefs with each other.
 
 But it's been actually kind of cool to see the teenagers and the college kids, from when I was a little kid, growing up to having families and homes and teaching kids with gentle parenting or raising their kids to be socially and politically aware the way that the older generations weren't able to. Seeing their gen alpha kids interact with the world and other people so consciously is an absolute joy, the stuff of daydreams.
@@ -10,15 +12,24 @@ Like you see them growing up from mustache memes, metrosexual fashion and other 
 
 I just wanted to say from one gen Z to millennials, good on you guys. I hope you find what you're looking for. It's been fun being ur little buddies in life.
 
-Edit for the devil's advocates: Yep i did generalise, u got me there. But that's what happens when consumers are segmented into age bracket groups, which are typically used by marketers. Segmentation is used for finding patterns rather than splitting hairs and ignores anolamies to the trend line. By its very definition, it's all generalised characteristics derived from a persona generated from the general commonalities among the group. So guilty as charged, you can blame qualitative data analysis. Outside of market segmentation in business contexts with an agenda, persona creation from common data isn't neccessarily faithful to a single individual, though that can happen. Do u see what I'm trying to say here? I'm not gonna re-explain cuz then I'll be talking in circles```
+Edit for the devil's advocates: Yep i did generalise, u got me there. But that's what happens when consumers are segmented into age bracket groups, which are typically used by marketers. Segmentation is used for finding patterns rather than splitting hairs and ignores anolamies to the trend line. By its very definition, it's all generalised characteristics derived from a persona generated from the general commonalities among the group. So guilty as charged, you can blame qualitative data analysis. Outside of market segmentation in business contexts with an agenda, persona creation from common data isn't neccessarily faithful to a single individual, though that can happen. Do u see what I'm trying to say here? I'm not gonna re-explain cuz then I'll be talking in circles
+```
+
+
+
 
 Very heartwarming take on the generational gap.
 
 
 
-```The whole generational thing and milestones for adults is just dumb. Especially when it's used to make people feel bad about being "behind" or whatever. Every life ever lived is different and they all have the same value and the same meaning. What is externally visible to others is ephemeral and meaningless. At the end of your life whether you are happy or unhappy about how you lived it, your life had the same value as everyone else's, because it is what you experienced. Everything else is just a drop in the ocean of time.```
+```
+The whole generational thing and milestones for adults is just dumb. Especially when it's used to make people feel bad about being "behind" or whatever. Every life ever lived is different and they all have the same value and the same meaning. What is externally visible to others is ephemeral and meaningless. At the end of your life whether you are happy or unhappy about how you lived it, your life had the same value as everyone else's, because it is what you experienced. Everything else is just a drop in the ocean of time.
+```
 
 I completely agree.
 
-```It's okay to have different priorities at different moments of life, keep going on your own time```
+```
+It's okay to have different priorities at different moments of life, keep going on your own time
+```
+
 Reassurance.
