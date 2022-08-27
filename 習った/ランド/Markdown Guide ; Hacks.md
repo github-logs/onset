@@ -3,7 +3,7 @@
 20220827 1626
 <details open>
 <summary> <sup><sub><mark>--note--</mark></summary>
-<sub><p>I went down a rabbit hole. <br> So...
+<sub><p>I went down a rabbit hole. </sub><br> So...
 I learned 
 
       [ how to create a collapsible code ]
