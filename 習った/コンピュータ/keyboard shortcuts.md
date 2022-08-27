@@ -1,0 +1,3 @@
+# keyboard shortcuts
+
+<iframe src="https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/keyboard-shortcuts" width="600" height="500"></iframe>
