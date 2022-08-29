@@ -64,7 +64,7 @@ not applicable, did not go to the gym
 
 	- [ ] 元気　教科書
 	- [ ] あんき
-	- [ ] WANIKANI - no decks today
+	- [ ] WANIKANI - 
 	- [ ] Manabi Reader
 	- [ ] 聞き取り (jpconvoみたいです)
 	- [ ] comprehensive jp, did not continue past 好きなもの
