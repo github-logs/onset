@@ -17,7 +17,7 @@
 	- [ ] ベッド
 	- [ ] 歯をブラシする
 	- [ ] シャワー
-	- [ ] 一ページ「TGR」
+	- [ ] 一ページ「Book: <<  >>」
 
 </details>
 
@@ -80,11 +80,7 @@ not applicable, did not go to the gym
 
 	 ``` 
 	 SENSIBILITY
-	  - refers to an awareness and responsiveness toward something, such as another person's emotions  It can also refer to the ability to feel and understand emotions, or to acuteness of feeling  <br>
-
-      - ability to receive sensations: sensitiveness <br>
-      - peculiar susceptibility to a pleasurable or painful impression (as from praise or a slight) <br>
-      - refined or excessive sensitiveness in emotion and taste with especial responsiveness to the pathetic
+	  - 
 	```
 <details >
 <summary> DID YOU KNOW? [ screenshot ] </summary>
@@ -111,7 +107,7 @@ n/a
 </details>
 
 
-# optionals
+# highlights
 - [ ] n/a
  
 
@@ -125,7 +121,7 @@ n/a
 	- [ ] skin care
 	- [ ] journal
 
-Sleep time: ~ [<<    >>]
+Estimated sleep time: ~ [<<    >>]
 
 
 ❌
