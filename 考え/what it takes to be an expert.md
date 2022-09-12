@@ -24,3 +24,10 @@ their brains have learned patterns."
 
 That's why DeBecker is an expert at what he does.
 Because he has l
+
+00 personal computer shut down due to low battery percentage
+
+
+video lessons summarized by commentor
+
+![image](https://user-images.githubusercontent.com/111704606/189610365-3668c7e2-5616-4683-a44e-a8bb41c6039a.png)
