@@ -33,7 +33,7 @@
 
 - [ ] enroll in that cs course
 
-- [ ] complete this video [Japanese Business Speech 敬語 (KEIGO)┃尊敬語 (sonkei-go - Respectful), 謙譲語 (kenjou-go - Humble) - YouTube](https://youtu.be/mJNsOVYjqjQ?t=699)
+- [x] complete this video [Japanese Business Speech 敬語 (KEIGO)┃尊敬語 (sonkei-go - Respectful), 謙譲語 (kenjou-go - Humble) - YouTube](https://youtu.be/mJNsOVYjqjQ?t=699)
 
 - [ ] log // games played via the online website
 learn their code/?? 
@@ -41,5 +41,5 @@ learn their code/??
 
 - [ ] log my days consistently for the month of september :D
 
-- [ ] to continue uni or not: Make a decision
+- [x] to continue uni or not: Make a decision: CONTINUE!
 
